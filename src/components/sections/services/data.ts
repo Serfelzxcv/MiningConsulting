@@ -8,12 +8,12 @@ import img5 from "./assets/smart-grid.png";
 import img6 from "./assets/green.png";
 
 export const servicesSectionData = {
-  title: "Our Sustainable Energy Solutions",
+  title: "Nuestros Servicios de Consultoría Especializada",
   subheading: {
-    text1_1: "Experience a Revolution in Energy Solutions - ",
-    text1_2: "Embrace Innovation, Embrace Sustainability.",
+    text1_1: "Experimenta una Revolución en la Minería - ",
+    text1_2: "Adopta la Innovación, Maximiza tu Productividad.",
     text2:
-      "We're here to Empower Your Life and Spaces with Clean, Renewable Energy, Paving the Way for a Brighter and Greener Tomorrow.",
+      "Estamos aquí para potenciar tus proyectos y operaciones con prácticas avanzadas y eficientes, allanando el camino hacia un futuro más próspero y responsable.",
   },
   services: [
     {
